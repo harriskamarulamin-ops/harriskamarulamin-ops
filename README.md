@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Harris Ikhwan</h1>
-<h3 align="center">Final Year Software Engineering Student | Flutter Developer | Trying to Finish FYP </h3>
+<h1 align="left">Hi 👋, I'm Harris Ikhwan</h1>
+<h3 align="left">A Final Year Software Engineering student trying to finish FYP :)</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harriskamarulamin-ops&label=Profile%20views&color=0e75b6&style=flat" />
@@ -8,10 +8,10 @@
 
 ###  About Me
 
-- 🔭 Currently working on **Doctor Home Call Management System**
-- 🌱 Learning **Data Visualization** and **Mobile Application Development**
-- 📫 Reach me at **harriskamarulamin@gmail.com**
-- ⚡ Fun fact: **I love Eve music!!**
+🔭 Currently working on **Doctor Home Call Management System**
+🌱 Learning **Data Visualization** and **Mobile Application Development**
+📫 Reach me at **harriskamarulamin@gmail.com**
+⚡ Fun fact: **I love Eve music!!**
 
 
 ### Connect with Me
