@@ -26,7 +26,6 @@
 </p>
 
 
----
 
 ###  Languages and Tools
 
@@ -46,6 +45,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
 </p>
+
+
 
 
 <p align="left">
