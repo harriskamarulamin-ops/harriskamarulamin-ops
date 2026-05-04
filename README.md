@@ -10,7 +10,7 @@
 
 <p>🔭 Currently working on **Doctor Home Call Management System**</p>
 <p>🌱 Learning **Data Visualization** and **Mobile Application Development**</p>
-<p>📫 Reach me at **harriskamarulamin@gmail.com**</p>
+<p>📫 Reach me at **<a href="harriskamarulamin@gmail.com">harriskamarulamin@gmail.com</a>**</p>
 <p>⚡ Fun fact: **I love Eve music!!**</p>
 
 
