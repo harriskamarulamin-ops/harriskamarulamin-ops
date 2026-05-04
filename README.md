@@ -8,10 +8,10 @@
 
 ###  About Me
 
-🔭 Currently working on **Doctor Home Call Management System**
-🌱 Learning **Data Visualization** and **Mobile Application Development**
-📫 Reach me at **harriskamarulamin@gmail.com**
-⚡ Fun fact: **I love Eve music!!**
+<p>🔭 Currently working on **Doctor Home Call Management System**</p>
+<p>🌱 Learning **Data Visualization** and **Mobile Application Development**</p>
+<p>📫 Reach me at **harriskamarulamin@gmail.com**</p>
+<p>⚡ Fun fact: **I love Eve music!!**</p>
 
 
 ### Connect with Me
