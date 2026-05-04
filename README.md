@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harriskamarulamin-ops&label=Profile%20views&color=0e75b6&style=flat" alt="harriskamarulamin-ops" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harriskamarulamin-ops" alt="harriskamarulamin-ops" /></a> </p>
-
 - 🔭 I’m currently working on [Doctor Home Call Management System](https://github.com/harriskamarulamin-ops/doctor-home-call-management-system)
 
 - 🌱 I’m currently learning **Data Visualization, Mobile Application.**
