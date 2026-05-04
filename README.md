@@ -5,16 +5,14 @@
   <img src="https://komarev.com/ghpvc/?username=harriskamarulamin-ops&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
----
 
 ###  About Me
 
 - 🔭 Currently working on **Doctor Home Call Management System**
 - 🌱 Learning **Data Visualization** and **Mobile Application Development**
 - 📫 Reach me at **harriskamarulamin@gmail.com**
-- ⚡ Fun fact: **I love Eve music**
+- ⚡ Fun fact: **I love Eve music!!**
 
----
 
 ### Connect with Me
 
@@ -49,17 +47,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
 </p>
 
----
-
-###  GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harriskamarulamin-ops&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=harriskamarulamin-ops&show_icons=true&locale=en" />
-</p>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harriskamarulamin-ops" />
