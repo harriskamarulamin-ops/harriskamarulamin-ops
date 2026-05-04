@@ -7,7 +7,7 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 - 🔭 Currently working on **Doctor Home Call Management System**
 - 🌱 Learning **Data Visualization** and **Mobile Application Development**
@@ -16,22 +16,21 @@
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/ahmadharrisikhwan">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
   </a>
-</p>
-<p>
-  <a href="https://instagram.com/harrisamein">
+    <a href="https://instagram.com/harrisamein">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/>
   </a>
 </p>
 
+
 ---
 
-### 🛠️ Languages and Tools
+###  Languages and Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
@@ -52,7 +51,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harriskamarulamin-ops&show_icons=true&locale=en&layout=compact" />
