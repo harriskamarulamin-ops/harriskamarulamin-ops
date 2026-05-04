@@ -20,9 +20,19 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/ahmadharrisikhwan">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
-   <a href="https://instagram.com/harrisamein">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/>
+    <img 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+      width="40" 
+      height="40" 
+      style="margin-right: 12px;"
+    />
+  </a>
+  <a href="https://instagram.com/harrisamein">
+    <img 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
+      width="40" 
+      height="40"
+    />
   </a>
 </p>
 
