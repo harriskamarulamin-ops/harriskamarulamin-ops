@@ -1,24 +1,13 @@
-<h1 align="left">Hello World👽, I'm A. Harris Ikhwan</h1>
-<h3 align="left">Final Year Software Engineering Student Getting Ready For Internship June 2026</h3>
+<h1 align="left">Sup, I'm harris kamarulamin!</h1>
+<h3 align="left">IT Development Intern</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harriskamarulamin-ops&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ###  About Me
-<p>🔭 Currently building Flutter mobile apps</p>
-<p>🌱 Learning Data Visualization and Mobile Application Development</p>
+<p>🔭 Currently learning building websites</p>
+<p>🌱 Learned Data Visualization (Tableau) and Mobile Application Development (Flutter)</p>
 <p>📫 Reach me at <a href="mailto:harriskamarulamin@gmail.com">harriskamarulamin@gmail.com</a></p>
-<p>⚡ Fun fact: I love Eve music!!</p>
-
-### Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/ahmadharrisikhwan">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/harrisamein">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/>
-  </a>
-</p>
 
 ###  Languages and Tools
 <p align="left">
