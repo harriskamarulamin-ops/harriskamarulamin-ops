@@ -5,9 +5,9 @@
 </p>
 
 ###  About Me
-<p>🔭 Currently learning building websites</p>
-<p>🌱 Learned Data Visualization (Tableau) and Mobile Application Development (Flutter)</p>
-<p>📫 Reach me at <a href="mailto:harriskamarulamin@gmail.com">harriskamarulamin@gmail.com</a></p>
+<p>- Currently learning building websites</p>
+<p>- Learned Data Visualization (Tableau) and Mobile Application Development (Flutter)</p>
+<p>- Reach me at <a href="mailto:harriskamarulamin@gmail.com">harriskamarulamin@gmail.com</a></p>
 
 ###  Languages and Tools
 <p align="left">
